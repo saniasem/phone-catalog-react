@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/phone-catalog-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/phone-catalog-react/static/js/main.404c8e9c.chunk.js",
+    "main.js.map": "/phone-catalog-react/static/js/main.404c8e9c.chunk.js.map",
+    "runtime~main.js": "/phone-catalog-react/static/js/runtime~main.fda6b73d.js",
+    "runtime~main.js.map": "/phone-catalog-react/static/js/runtime~main.fda6b73d.js.map",
+    "static/js/2.b41502e9.chunk.js": "/phone-catalog-react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/phone-catalog-react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/phone-catalog-react/index.html",
+    "precache-manifest.03fc5d165dccb620ff34439bdcf6e5d5.js": "/phone-catalog-react/precache-manifest.03fc5d165dccb620ff34439bdcf6e5d5.js",
+    "service-worker.js": "/phone-catalog-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/phone-catalog-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/phone-catalog-react/static/media/logo.5d5d9eef.svg"
+  }
+}
